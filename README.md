@@ -3,7 +3,7 @@ En este repositorio desarrollaremos un código para hacer una calculadora utiliz
 Calculadora simple en Python que realiza suma, resta, multiplicación y división. Cada función se desarrolló en una rama separada (`feature/add`, `feature/subtract`, `feature/multiply`, `feature/divide`) con pull requests a `main`.
 
 ## Cómo ejecutar
-1. Clona el repositorio: `git clone https://github.com/<tu-usuario>/Calculadora-Python.git`
+1. Clona el repositorio: `git clone https://github.com/darioargel/Calculadora-Python.git`
 2. Navega a la carpeta: `cd Calculadora-Python`
 3. Ejecuta: `python calculator.py`
 
