@@ -1,12 +1,12 @@
-def add(n1, n2):
-    return n1 + n2
+def subtract(n1, n2):
+    return n1 - n2
 
 def calculator():
-    print("Calculadora: Suma")
+    print("Calculadora: Resta")
     try:
         n1 = float(input("Enter first number: "))
         n2 = float(input("Enter second number: "))
-        print(f"{n1} + {n2} = {add(n1, n2)}")
+        print(f"{n1} - {n2} = {subtract(n1, n2)}")
     except ValueError:
         print("Invalid input: Please enter valid numbers")
 
